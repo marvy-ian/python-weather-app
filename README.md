@@ -39,6 +39,3 @@ current conditions and rendered in a Tkinter window.
 - Tkinter (GUI)
 - requests (HTTP calls)
 - wttr.in (weather data source)
-
-## License
-MIT
